@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Battery AA",
+        "category": "Battery",
+        "description": "A standard 1.5V AA battery used in remote controls and toys.",
+        "usage": "Insert into compatible battery slots.",
+        "price": 10.0
+    },
+    {
+        "name": "Transistor BC547",
+        "category": "Transistor",
+        "description": "NPN general-purpose transistor used in amplification.",
+        "usage": "Used in switching circuits.",
+        "price": 1.5
+    },
+    {
+        "name": "IC 555 Timer",
+        "category": "IC",
+        "description": "An integrated circuit used in timers and pulse generation.",
+        "usage": "Commonly used in oscillators and timers.",
+        "price": 5.0
+    }
+]
